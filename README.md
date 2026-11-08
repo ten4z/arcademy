@@ -6,5 +6,18 @@ direcionamento para outra plataforma alvo fomentadora, distribuidora e/ou moneti
 Fique à vontade para degustar dos projetos que ainda estão saindo quentinhos da Forja, 
 aqui é o Forja Studio Labs, fique à vontade.
 
-link auto contido da forja acessível em meu blog pessoal:
+Se inscreva em meu Canal no Youtube para apoiar me com aquela Super Força
+que a Comunidade sempre Teve. 
+************************************************************************
+************************************************************************
+Meu Canal:-> https://www.youtube.com/@zigamultimedia?sub_confirmation=1
+^^ LOOK -> LIKE -> SUBSCRIBE ^^^^^^^^^^^^^^^^^^^^^^
+************************************************************************
+************************************************************************
+Link auto contido da forja acessível em meu Blog Pessoal:
 https://forjaiapps.blogspot.com/2026/10/forja.html
+
+
+
+
+
