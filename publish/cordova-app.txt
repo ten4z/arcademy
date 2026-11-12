@@ -25,3 +25,8 @@ cordova build android --release -- --packageType=apk
 // release apk para usuarios do Windows 
 cordova build android --release "--" --packageType=apk
 
+// criar a chave da loja
+keytool -genkey -v -keystore keystore.jks -keyalg RSA -keysize 2048 -validity 365000 -alias arcademy
+
+// alinhar e assinar app
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore keystore.jks -signedjar signed-arcademy.aab arcademy.aab arcademy
