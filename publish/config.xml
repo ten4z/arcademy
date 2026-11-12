@@ -1,0 +1,19 @@
+<?xml version='1.0.0' encoding='utf-8'?>
+<widget id="com.forjaiapps.arcademy" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Arcademy</name>
+    <description>
+        Um Laboratório e Portfólio para reproduzir Cursos, Jogos e Coisas que o Ziga (Josiel Soares) Criar, Desenvolver ou Desenhar, com a pegada Interativa e 3D. Aplicativo Exclusivo para Plataforma Android.
+    </description>
+    <author email="zigasistemas@gmail.com" href="https://forjaiapps.blogspot.com">
+        Time de Desenvolvimento Tenaz Software
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <icon src="res/android/icon-96-xhdpi.png" width="96" height="96" /> 
+        <preference name="Orientation" value="landscape" />
+        <preference name="android-minSdkVersion" value="24" />
+        <preference name="android-targetSdkVersion" value="36" />
+    </platform>
+</widget>
